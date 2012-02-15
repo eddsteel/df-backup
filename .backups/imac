@@ -1,0 +1,49 @@
+# Stores for imac
+
+mail:
+	~/Mail/ /Store/edd/Mail
+documents:
+	~/Documents/ /Store/edd/Documents
+pictures:
+ ~/Photos/ /Store/edd/Photos
+music:
+	~/Music/ /Users/Shared/Music
+film:
+	~/Film/ /Users/Shared/Film
+dotfiles:
+ ~/.ssh /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gnupg /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.vim /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.vimrc /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.aptitude /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.abook /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.config /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.dbus /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.dmrc /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.fontconfig /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gconf /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gconfd /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gimp-2.6 /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gnome2 /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gstreamer-0.10 /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.gtk-bookmarks /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.heroku /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.histfile /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.homesick /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.icons /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.keys /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.lesshst /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.local /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.macromedia /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.mozilla /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.pin /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.pki /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.profile /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.public /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.screenrc /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.sqlite_history /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.ssh /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.templates /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.themes /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.thumbnails /Store/edd/dotfiles/$(hostname)/home/edd
+ ~/.zcompdump /Store/edd/dotfiles/$(hostname)/home/edd

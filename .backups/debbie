@@ -1,0 +1,47 @@
+# Backups for debbie
+
+documents:
+	~/Documents/	/srv/content/Documents
+pictures:
+ ~/Photos/ /srv/content/Photos
+dotfiles:
+ ~/.ssh /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gnupg /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.vim /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.vimrc /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.aptitude /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.config /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.dbus /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.dmrc /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.evolution /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.fontconfig /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gconf /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gconfd /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gimp-2.6 /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gnome2 /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gstreamer-0.10 /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.gtk-bookmarks /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.heroku /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.histfile /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.homesick /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.icons /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.keys /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.lesshst /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.local /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.macromedia /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.mozilla /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.nautilus /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.pin /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.pki /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.profile /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.public /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.quodlibet /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.recently-used.xbel /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.screenrc /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.sqlite_history /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.ssh /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.templates /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.themes /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.thumbnails /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.zcompdump /srv/content/dotfiles/$(hostname)/home/edd
+ ~/.reminders /srv/content/dotfiles/$(hostname)/home/edd

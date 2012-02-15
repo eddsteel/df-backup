@@ -1,0 +1,49 @@
+# Stores for annyong -- i.e. when a local disk
+# is plugged in.
+#
+
+mail:
+	~/Mail/ /media/usb/content/Mail
+pictures:
+ ~/Photos/ /media/usb/content/Photos
+dotfiles:
+ ~/.ssh /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gnupg /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.vim /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.vimrc /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.aptitude /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.abook /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.config /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.dbus /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.dmrc /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.fontconfig /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gconf /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gconfd /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gimp-2.6 /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gnome2 /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gstreamer-0.10 /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.gtk-bookmarks /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.heroku /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.histfile /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.homesick /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.icons /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.keys /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.lesshst /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.local /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.macromedia /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.mozilla /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.pin /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.pki /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.profile /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.public /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.screenrc /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.sqlite_history /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.ssh /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.templates /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.themes /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.thumbnails /media/usb/content/dotfiles/$(hostname)/home/edd
+ ~/.zcompdump /media/usb/content/dotfiles/$(hostname)/home/edd
+projects:
+	~/Projects/ /media/usb/content/Projects
+documents:
+	~/Documents/ /media/usb/content/Documents
