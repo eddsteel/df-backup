@@ -40,10 +40,5 @@ dotfiles:
  ~/.pki /Store/edd/dotfiles/$(hostname)/home/edd
  ~/.profile /Store/edd/dotfiles/$(hostname)/home/edd
  ~/.public /Store/edd/dotfiles/$(hostname)/home/edd
- ~/.screenrc /Store/edd/dotfiles/$(hostname)/home/edd
- ~/.sqlite_history /Store/edd/dotfiles/$(hostname)/home/edd
  ~/.ssh /Store/edd/dotfiles/$(hostname)/home/edd
- ~/.templates /Store/edd/dotfiles/$(hostname)/home/edd
- ~/.themes /Store/edd/dotfiles/$(hostname)/home/edd
- ~/.thumbnails /Store/edd/dotfiles/$(hostname)/home/edd
  ~/.zcompdump /Store/edd/dotfiles/$(hostname)/home/edd
